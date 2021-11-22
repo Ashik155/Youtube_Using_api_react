@@ -1,4 +1,4 @@
-<h1> What and how are we going to build the App. <h1> 
+<h1> What and how are we going to build the App. </h1> 
  
 
  We are going to Use basic of props concepts in this project. 
