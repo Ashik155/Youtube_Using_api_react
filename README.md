@@ -1,4 +1,5 @@
 <h1> What and how are we going to build the App. </h1> 
+//running versio  https://salty-brushlands-96867.herokuapp.com/
  
 
  We are going to Use basic of props concepts in this project. 
